@@ -1,10 +1,12 @@
 **Features:**
+
      1. Faculty can add courses and ssign schedules to courses.
      2. Students can view available courses, register for courses and view schedule for courses.
      3. This stores the schedule so students can view the schedule.
 
 
 **How it works:**
+
      1. Faculty options-
           addCourse(): Allows adding new course.
           assignSchedule(): Assigns a schedule to a specific course.
